@@ -131,7 +131,11 @@ You can it's implementation by Gayle McDowell here
 ### Study Material
 
 [Implementing Memoization in JavaScript by SitePoint](https://www.sitepoint.com/implementing-memoization-in-javascript/)
+
 [Faster JavaScript Memoization For Improved Application Performance by Addy Osmani](https://addyosmani.com/blog/faster-javascript-memoization/)
+
 [Memoization, Speed Up Your Javascript Performance from require 'mind'](http://requiremind.com/memoization-speed-up-your-javascript-performance/)
+
 [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
+
 [And most importantly, JavaScript: the good parts by Douglas Crockford ](https://www.safaribooksonline.com/library/view/javascript-the-good/9780596517748/ch04s15.html)
